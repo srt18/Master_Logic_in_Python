@@ -7,6 +7,7 @@
 
     ###⭕ Level 1: Simple Conditions (Getting started) 
     ###⭕ Level 2: Nested If & Multiple Conditions
+    ###⭕ Level 3: Math and Number Logic
 
 ##👉Phase 2 – Looping & Patterns (Iteration & Flow) 
 
