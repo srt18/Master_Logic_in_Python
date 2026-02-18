@@ -9,6 +9,7 @@
     ###⭕ Level 1: Simple Conditions (Getting started) 
     ###⭕ Level 2: Nested If & Multiple Conditions
     ###⭕ Level 3: Math and Number Logic
+    ###⭕ Level 4: Logical Operators & Compound Statements
 
 👉Phase 2 – Looping & Patterns (Iteration & Flow) 
 
