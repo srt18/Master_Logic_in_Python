@@ -10,6 +10,7 @@
     ###⭕ Level 2: Nested If & Multiple Conditions
     ###⭕ Level 3: Math and Number Logic
     ###⭕ Level 4: Logical Operators & Compound Statements
+    ###⭕ Level 5: Creative / Tricky Logical Scenarios
 
 👉Phase 2 – Looping & Patterns (Iteration & Flow) 
 
