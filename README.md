@@ -19,6 +19,7 @@
     Target Questions: 50
 
     ###⭕ Level 1: Basic Looping (Introductory)
+    ###⭕ Level 2: Number-based Looping Logic
 
 
 👉Phase 2 – Looping & Patterns (Iteration & Flow) 
