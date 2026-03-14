@@ -20,6 +20,7 @@
 
     ###⭕ Level 1: Basic Looping (Introductory)
     ###⭕ Level 2: Number-based Looping Logic
+    ###⭕ Level 2: Mathematical & Logical Patterns
 
 
 👉Phase 2 – Looping & Patterns (Iteration & Flow) 
